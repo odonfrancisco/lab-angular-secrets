@@ -6,8 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./auth-login.component.css']
 })
 export class AuthLoginComponent implements OnInit {
+
   constructor() { }
 
   ngOnInit() {
   }
+
 }
